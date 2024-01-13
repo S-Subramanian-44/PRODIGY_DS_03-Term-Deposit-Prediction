@@ -21,10 +21,6 @@ This repository contains the code and documentation for a data science project c
 - Machine Learning libraries (e.g., scikit-learn)
 - Jupyter Notebooks
 
-### Acknowledgments
-
-This project was conducted as part of the Data Science Internship at Prodigy Infotech. Special thanks to the team for their support and guidance.
-
 Feel free to reach out for any questions or collaboration opportunities!
 
 🌐 LinkedIn: https://www.linkedin.com/in/subramanian-s-ab94302a1/
