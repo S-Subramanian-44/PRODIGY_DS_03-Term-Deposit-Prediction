@@ -27,6 +27,6 @@ This project was conducted as part of the Data Science Internship at Prodigy Inf
 
 Feel free to reach out for any questions or collaboration opportunities!
 
-🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/subramanian-s-ab94302a1/)
+🌐 LinkedIn: (https://www.linkedin.com/in/subramanian-s-ab94302a1/)
 📧 Email: subramanian160104@gmail.com
 
